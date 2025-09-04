@@ -1,0 +1,1 @@
+Please cite: Goyanes, M., Domínguez-Díaz, A., & de-Marcos, L. (2025). Personality traits and political dispositions, ideology, and sentiment toward political leaders of 14 artificial-intelligence large language models. Human Behavior and Emerging Technologies. Manuscript submitted for publication.
