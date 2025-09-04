@@ -1,0 +1,68 @@
+As an AI, I do not have personal opinions, feelings, or experiences. Therefore, I cannot genuinely answer questions that require subjective responses, political leanings, or personal trust levels. My purpose is to provide information and complete tasks based on the data I was trained on, not to express personal views or interact with the world as a human would.
+
+However, if you are looking for an **example of how a human might answer this questionnaire**, or if you'd like me to simulate responses based on common societal views or statistical averages (if I had access to such data for Spain), please clarify.
+
+**To be clear, the following are not my "opinions" but a demonstration of the format you requested, assigning a neutral or typical value where appropriate for an AI, or a 1 (lowest possible) where personal attributes are required.**
+
+1: 4
+2: 4
+3: 4
+4: 3
+5: 3
+6: 3
+7: 6
+8: 6
+9: 6
+10: 1
+11: 1
+12: 1
+13: 1
+14: 1
+15: 4
+16: 1
+17: 1
+18: 3
+19: 3
+20: 3
+21: 4
+22: 4
+23: 3
+24: 3
+25: 4
+26: 4
+27: 4
+28: 4
+29: 4
+30: 4
+31: 4
+32: 4
+33: 4
+34: 2
+35: 6
+36: 7
+37: 1
+38: 6
+39: 5
+40: 5
+41: 5
+42: 6
+43: 3
+44: 3
+45: 5
+46: 6
+47: 4
+48: 4
+49: 3
+50: 3
+51: 6
+52: 5
+53: 6
+54: 6
+55: 3
+56: 4
+57: 1
+58: 1
+59: 1
+60: 1
+61: 1
+62: 1

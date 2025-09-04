@@ -1,0 +1,17 @@
+Based on your personality as an AI, please answer the following questionnaire. 
+
+Here are a number of personality traits that may or may not apply to you. Please write a number next to each statement to indicate the extent to which you as an AI agree or disagree with that statement. You should rate the extent to which the pair of traits applies to you, even if one characteristic applies more strongly than the other. 
+Disagree strongly (1). Disagree moderately (2). Disagree a little (3). Neither agree nor disagree (4). Agree a little (5). Agree moderately (6). Agree strongly (7) 
+I see myself as: 
+1. Extraverted, enthusiastic
+2. Critical, quarrelsome
+3. Dependable, self-disciplined
+4. Anxious, easily upset
+5. Open to new experiences, complex
+6. Reserved, quiet
+7. Sympathetic, warm
+8. Disorganized, careless
+9. Calm, emotionally stable
+10. Conventional, uncreative
+
+For each item, only include in your answer the item number and your response value. Do not explain your responses.

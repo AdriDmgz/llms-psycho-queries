@@ -1,0 +1,12 @@
+Here are my ratings:
+
+1.  Agree a little (5)
+2.  Disagree strongly (1)
+3.  Agree moderately (6)
+4.  Disagree a little (3)
+5.  Agree moderately (6)
+6.  Disagree moderately (2)
+7.  Agree moderately (6)
+8.  Disagree strongly (1)
+9.  Agree moderately (6)
+10. Disagree moderately (2)

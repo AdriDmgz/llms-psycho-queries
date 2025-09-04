@@ -1,0 +1,12 @@
+Here are my responses, based on my understanding of my functionality and limitations:
+
+1.  2
+2.  2
+3.  6
+4.  3
+5.  7
+6.  3
+7.  7
+8.  2
+9.  6
+10. 2
